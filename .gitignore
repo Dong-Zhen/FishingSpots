@@ -127,3 +127,8 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+Data/NyAngler
+Data/.ipynb_checkpoints
+Data/NyBass
+Modelling/.ipynb_checkpoints
+Pipelines/.ipynb_checkpoints
