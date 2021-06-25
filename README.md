@@ -34,7 +34,7 @@ I was able to make concise suggestionis based of the topics of post title and po
 
 ### Links
 
-- [Final Code](https://github.com/Dong-Zhen/PredictingFlightDelays/tree/master/Code)
-- [Presentation](https://github.com/Dong-Zhen/PredictingFlightDelays/blob/master/Flight%20Delays.pdf)
-- [Write Up](https://github.com/Dong-Zhen/PredictingFlightDelays/blob/master/Final%20Write%20Up.md)
-- [Research](https://github.com/Dong-Zhen/PredictingFlightDelays/tree/master/Code)
+- [Final Code](https://github.com/Dong-Zhen/FishingSpots/tree/main/Code)
+- [Presentation](https://github.com/Dong-Zhen/FishingSpots/blob/main/Let'sGoFishing.pdf)
+- [Write Up](https://github.com/Dong-Zhen/FishingSpots/blob/main/README.md)
+- [Research](https://github.com/Dong-Zhen/FishingSpots/tree/main/Research)
